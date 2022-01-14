@@ -12,19 +12,17 @@ _Below you can find explantations for all the folders and files_
 
 ## \config
 
-This folder includes config-files for all the mods in the mod folder. These will be created automatically when starting minecraft with the mods installed. However you can instead you the configs I have provided here in order to use my customised keybinds and settings.
+This folder includes config-files for all the mods in the mod folder. These will be created automatically when starting minecraft with the mods installed. However you can instead use the configs I have provided here in order to use my customised keybinds and settings.
 
 ## \mods
 
 This folder holds all the client-side mods I use in 1.18.0
 
-Not all of them have 1.18.1 versions yet, so I wont be switching until then. However please make sure to use newer versions if possible as 1.18.0 contains some security flaws that are only fixed for later versions.
+At time of writing, not all of them have 1.18.1 versions yet, so I won't be switching until then. However please make sure to use newer versions if possible as 1.18.0 contains some security flaws that are fixed in later versions.
 
 ## \resource packs
 
-This folder holds all resourcepacks that have either been assembled by me on the [vanillatweaks](https://vanillatweaks.net/picker/resource-packs/) website or are hard to find on google. Not included here are texture packs that can be downloaded in full on the creators websites.
-
-I do not use all the texturepacks in this folder at all times.
+This folder holds all resourcepacks that have either been assembled by me on the [vanillatweaks](https://vanillatweaks.net/picker/resource-packs/) website or are hard to find on google. Not included here are texture packs that can be downloaded in full on the creators websites. I don't use all the texturepacks in this folder at all times, see table below.
 
 _This is how my resourcepacks are ordered in the games resourcepack-settings_
 
