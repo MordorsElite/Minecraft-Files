@@ -21,6 +21,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.minecraft]
 				axolotl = true
+				egg = true
 				llama = true
 				bat = true
 				husk = true
@@ -81,6 +82,7 @@ mode = "fancy"
 				armor_stand = true
 				experience_orb = true
 				dolphin = true
+				stray = true
 				turtle = true
 				shulker = true
 				salmon = true
@@ -116,5 +118,6 @@ mode = "fancy"
 				polar_bear = true
 				hopper_minecart = true
 				falling_block = true
+				painting = true
 				wither = true
 

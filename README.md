@@ -12,13 +12,11 @@ _Below you can find explantations for all the folders and files_
 
 ## \config
 
-This folder includes config-files for all the mods in the mod folder. These will be created automatically when starting minecraft with the mods installed. However you can instead use the configs I have provided here in order to use my customised keybinds and settings.
+This folder includes config-files for all the mods in the mod folder. These will be created automatically when starting minecraft with the mods installed. However you can instead use the configs I have provided here in order to use my custom keybinds and settings.
 
 ## \mods
 
-This folder holds all the client-side mods I use in 1.18.0
-
-At time of writing, not all of them have 1.18.1 versions yet, so I won't be switching until then. However please make sure to use newer versions if possible as 1.18.0 contains some security flaws that are fixed in later versions.
+This folder holds all the client-side mods I use in 1.18.1
 
 ## \resource packs
 
@@ -44,7 +42,9 @@ Since schematica has not been updated to versions above 1.12.2, I just recommend
 
 # Server
 
-``BackupMinecraftServer.py``
+I use a 1.18.1 fabric server with 12GB allocated RAM. To create such a server for yourself, download the newest version of the [fabric installer](https://fabricmc.net/use/installer/), select the "Server" tab and follow its instructions.
+
+## BackupMinecraftServer.py
 
 This is a python script that creates a zip-file of the target folder and saves it in the output folder. 
 
@@ -62,7 +62,7 @@ Server config folder
 
 ## \mods
 
-Mods I use in my 1.18.0 fabric server
+Mods I use in my 1.18.1 fabric server. Servux is required for seed specific minihud features to work and carpet-extra for some tweakeroo features
 
 ## \worldfiles
 
