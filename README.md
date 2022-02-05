@@ -4,6 +4,8 @@ This is a collection of mods, resource packs and other files I use when playing 
 
 A full list of all clients, mods, resource packs and shaders including all the original download links can be found in [this post](https://www.reddit.com/user/MordorsElite/comments/p5y2va/my_minecraftmods/?utm_source=share&utm_medium=web2x&context=3).
 
+To download the provided files, click `Code` and select `Download ZIP`.
+
 _Below you can find explantations for all the folders and files_
 
 # Client
@@ -58,7 +60,7 @@ Script I use to start my server. Detailed explanation at the bottom
 
 ## \config
 
-Server config folder
+This folder holds the servers mod configs.
 
 ## \mods
 
